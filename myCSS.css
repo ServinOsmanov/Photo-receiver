@@ -1,0 +1,32 @@
+.item-wrap {
+	width: 220px;
+	height: 120px;
+	background-color: red;
+	border: 5px solid blue;
+	display: inline-block;
+	text-align: center; 
+	line-height: 120px;
+	background-size: contain;
+	}
+
+.item-wrap:hover {
+    border: 10px solid blue;
+    color: white;
+    font-style: italic;
+    font-size: 40px;
+    line-height: 120px;
+	}
+
+.highlight {
+	width: 220px;
+	height: 120px;
+	background-color: red;
+	border: 10px solid blue;
+	display: inline-block;
+	text-align: center; 
+	line-height: 120px;
+	color: white;
+    font-style: italic;
+    font-size: 40px;
+}	
+
